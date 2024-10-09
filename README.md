@@ -76,7 +76,7 @@ python main.py "../data/Resume_data_pdf" "sk-labdMNjkgJHiFnbLHBJcccfKNBDFJTYCVfv
 * Below is the visualization of two CVs' outputs after running the main.py. It can be seen that GPT can accurately extract the relevant skills with proficiency levels.   
 <img src="./images/test3.png" alt="Project Screenshot" width="600">
 
-## Summary
+## Conclusion
 ### NER-Based Model:
 * Strengths:
 1. Tailored entity recognition allows for customization to identify specific skill-related entities.    
