@@ -99,4 +99,4 @@ python main.py "../data/Resume_data_pdf" "sk-labdMNjkgJHiFnbLHBJcccfKNBDFJTYCVfv
 ## Authors
 Contributors names and contact info
 
-[@XingCHEN](xing.chen@cnrs-thales.fr)
+[@xing.chen@cnrs-thales.fr](xing.chen@cnrs-thales.fr)
