@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/865020666.svg)](https://doi.org/10.5281/zenodo.15525248)
 # Skills-Extraction-from-Resume-NER-and-GPT-prompt
 This repo is supposed to implement extracting skills with corresponding proficiency levels from a resume. 
 
